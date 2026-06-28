@@ -65,7 +65,7 @@ Average Rating: 3.67
 - **Matplotlib**, **Seaborn** – Static Visualization
 - **Plotly Express** – Interactive Charts
 - **Jupyter / Google Colab** – Notebook Interface
-
+- **PowerBI** – Interactive Dashboard
 ---
 
 ## 🧪 How to Use
